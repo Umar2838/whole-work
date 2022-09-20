@@ -1,0 +1,136 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+ }
+    */
+
+/* .bordercss{
+    width: 500px;
+    height: 300px;
+    background-color: yellowgreen;
+     /* border-width: 10px ;
+     border-color: green;
+     border-style: dotted; 
+
+     /* short form */
+
+     /*border: 10px dotted green;
+     border-radius: 20px; */
+
+     /* LIST CSS */
+
+/* ul{
+    list-style-type: square;
+}
+
+ol{
+     list-style-type: lower-roman; 
+     list-style-type: upper-roman; 
+} */
+/* .boxmodel{
+    width: 400px;
+    height: 200px;
+    background-color: blanchedalmond;
+     
+}*/
+/*input {
+     padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; */
+        
+    /* SHORT FORM */
+
+    /* padding: 20px 20px 20px 20px 
+    padding: 20px; */ 
+
+    /* first value is for top
+    second is for right
+    third is for bottom
+    forth is for left */
+
+    /* margin-top: 20px;
+    margin: 20px 10px 20px 10px;*/
+
+    /* POSITIONING CSS  */
+
+    /* z-index is only use with position */
+/*     
+     .father{
+        width: 800px;
+        height: 400px;
+        background-color: antiquewhite;
+        position: relative;
+
+    }
+    .child1{
+        width: 100px;
+        height: 60px;
+        background-color: aquamarine;
+        position: absolute;
+        /* left: 0; */
+       /* z-index: 3;
+        
+    }
+
+    .child2{
+        width: 100px;
+        height: 60px;
+        background-color: lightcoral;
+        position:absolute;
+        z-index: 1;
+        /* right: 0; 
+    }  */
+
+    /*.child3{
+        width: 100px;
+        height: 60px;
+        background-color: pink;
+        position:absolute;
+        /* bottom:0;
+        right:0; 
+    } */
+
+    /*.child4{
+        width: 100px;
+        height: 60px;
+        background-color: gray;
+        /* position:absolute;
+        bottom:0; 
+
+    } */
+
+    /* CSS fLOAT */
+    
+    .header{
+        width: 100%;
+        height: 80px;
+        background-color:black;
+    }
+    .logo{
+        width: 30%;
+       line-height:80px;
+       text-align: center;
+        background-color:blueviolet;
+        float:left;
+    }
+    
+    .menu{
+        width: 70%;
+       line-height:48px;
+        background-color: red;
+        float:right;
+        
+
+    }
+    ul{
+        list-style:none;
+        text-align: right;
+    }
+    li{
+        display:inline-block;
+        padding: 0 10px;
+    }
+
+    
+    
+    

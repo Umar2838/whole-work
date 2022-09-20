@@ -1,0 +1,43 @@
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+    background:#30336b;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+    .main-heading h2{
+        margin-bottom:20px;
+    }
+
+button{
+    display:inline-block;
+    font-size: 20px;
+    border-radius: 3px;
+    color:black;
+    font-style:oblique;
+    background: rgb(255, 217, 0);
+    font-variant: inherit;
+    font-weight: normal;
+    transition:400ms;
+    padding:10px;
+    z-index:100000;
+    text-decoration: none;
+    text-align:center;
+}
+
+img{
+    width:60px;
+}
+    
+
+    
+
